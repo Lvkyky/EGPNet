@@ -7,7 +7,7 @@ Here I provide PyTorch implementations for EPGNet.
 
 
 ## Requirements
->RTX3060 <br>
+>RTX 3060 <br>
 >python 3.7<br>
 >PyTorch 1.13.1
 
@@ -15,7 +15,7 @@ Here I provide PyTorch implementations for EPGNet.
 ## Installation
 Clone this repo:
 ```shell
-git clone https://github.com/xingronaldo/ISNet.git
+git clone https://github.com/Lvkyky/EPGNet.git
 cd EPGNet
 ```
 
