@@ -190,7 +190,8 @@ class Decoder(nn.Module):
     def forward(self,x1,x2,x3,x4,x5):
         x = self.up4(x5)#512---->256
         x = self.stage4(torch.cat([x4, x], dim=1))#512--->256
-
+        
+        # we find that throwing coarse feture5 leads better performance.
         x = self.up3(x4)#256---->128
         x = self.stage3(torch.cat([x3, x], dim=1))#256--->128
 
