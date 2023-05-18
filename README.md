@@ -1,6 +1,6 @@
-# EPGNet
-This project is the code of my paper: Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection.
+# This project is the code of my paper : Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection.
 I am not sure if this paper will be accepted， but happiness must come first.
+
 
 ---------------------------------------------
 Here I provide PyTorch implementations for EPGNet.
@@ -8,7 +8,7 @@ Here I provide PyTorch implementations for EPGNet.
 
 ## Requirements
 >RTX 3060 <br>
->python 3.7<br>
+>python 3.7 <br>
 >PyTorch 1.13.1
 
 
