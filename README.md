@@ -7,7 +7,7 @@ Here I provide PyTorch implementations for EPGNet.
 
 
 ## Requirements
->RTX3060 X<br>
+>RTX3060 <br>
 >python 3.7<br>
 >PyTorch 1.13.1
 
@@ -23,7 +23,7 @@ cd EPGNet
 ## Test
 You can download our pretrained models for LEVIR-CD, SYSU-CD,  [Baidu Netdisk, code: tgrs](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ), [Baidu Netdisk, code: tgrs](https://pan.baidu.com/s/1CDkcUUpdd0w9tz4fe7no0A).
 
-Then put them in `./hisNet0`, `./hisNet1, separately.
+Then put them in `/hisNet0`, `/hisNet1`, separately.
 
 
 * Test on the LEVIR-CD dataset
