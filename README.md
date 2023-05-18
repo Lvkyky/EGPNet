@@ -34,7 +34,7 @@ Then put them in `/hisNet0`, `/hisNet1`, separately.
 
 
 ## Train & Validation
-```python Train_LEVIR0.py ```
+```python Train_LEVIR_0.py ```
 
 
 ## Contact
