@@ -16,12 +16,13 @@ Here I provide PyTorch implementations for EPGNet.
 Clone this repo:
 ```shell
 git clone https://github.com/xingronaldo/ISNet.git
-cd ISNet/ISNet
+cd EPGNet
 ```
 
 
 ## Test
 You can download our pretrained models for LEVIR-CD, SYSU-CD,  [Baidu Netdisk, code: tgrs](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ), [Baidu Netdisk, code: tgrs](https://pan.baidu.com/s/1CDkcUUpdd0w9tz4fe7no0A).
+
 Then put them in `./hisNet0`, `./hisNet1, separately.
 
 
