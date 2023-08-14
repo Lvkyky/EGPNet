@@ -15,13 +15,13 @@ Here I provide PyTorch implementations for EPGNet.
 ## Installation
 Clone this repo:
 ```shell
-git clone https://github.com/Lvkyky/EPGNet.git
+git clone https://github.com/Lvkyky/EGPNet.git
 cd EPGNet
 ```
 
 
 ## Test
-You can download our pretrained models for LEVIR-CD, SYSU-CD,  [Baidu Netdisk, code: tgrs](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ), [Baidu Netdisk, code: tgrs](https://pan.baidu.com/s/1CDkcUUpdd0w9tz4fe7no0A).
+You can download our pretrained models for LEVIR-CD, SYSU-CD, CDD  [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1CDkcUUpdd0w9tz4fe7no0A), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ).
 
 Then put them in `/hisNet0`, `/hisNet1`, separately.
 
