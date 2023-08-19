@@ -1,9 +1,6 @@
-# This project is the code of my paper : Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection.
-I am not sure if this paper will be accepted， but happiness must come first.
-
-
+# Code for JSTARS article 'Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection'.
 ---------------------------------------------
-Here I provide PyTorch implementations for EPGNet.
+Here I provide PyTorch implementations for EGPNet(FuseNet)
 
 
 ## Requirements
@@ -18,7 +15,6 @@ Clone this repo:
 git clone https://github.com/Lvkyky/EGPNet.git
 cd EPGNet
 ```
-
 
 ## Test
 You can download our pretrained models for LEVIR-CD, SYSU-CD, CDD  [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1CDkcUUpdd0w9tz4fe7no0A), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ).
