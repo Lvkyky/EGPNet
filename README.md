@@ -41,12 +41,12 @@ Then put them in `/EGPNET_LEVIR/bestNet`, `/EGPNET_SYSU/bestNet`,  `/EGPNET_CDD/
 The dataset folder must be named LEVIR,SYSU,CDD, or there will be issues with dataset loading.
 
 ## Citation
->@article{zhu2023edge,
->  title={Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection},
-> author={Zhu, Ye and Lv, Kaikai and Yu, Yang and Xu, Wenjia},
->  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
->  year={2023},
->  publisher={IEEE}
+>@article{zhu2023edge,<br>
+>  title={Edge-Guided Parallel Network for VHR Remote Sensing Image Change Detection},<br>
+> author={Zhu, Ye and Lv, Kaikai and Yu, Yang and Xu, Wenjia},<br>
+>  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},<br>
+>  year={2023},<br>
+>  publisher={IEEE}<br>
 }
 
 
