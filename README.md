@@ -19,18 +19,26 @@ cd EPGNet
 ## Test
 You can download our pretrained models for LEVIR-CD, SYSU-CD, CDD  [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1CDkcUUpdd0w9tz4fe7no0A), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ).
 
-Then put them in `/hisNet0`, `/hisNet1`, separately.
+Then put them in `/EGPNET_LEVIR/bestNet`, `/EGPNET_SYSU/bestNet`,  `/EGPNET_CDD/bestNet` separately.
 
 
 * Test on the LEVIR-CD dataset
-```python Test_LEVIR_0.py```
+```python Test_LEVIR.py```
 
 * Test on the SYSU-CD dataset
-```python Test_YSYU_1.py```
+```python Test_YSYU.py```
+
+* Test on the SYSU-CD dataset
+```python Test_CDD.py```
 
 
 ## Train & Validation
-```python Train_LEVIR_0.py ```
+```python Train_LEVIR.py ```
+```python Train_SYSU.py ```
+```python Train_CDD.py ```
+
+## Attention
+The dataset folder must be named LEVIR,SYSU,CDD, or there will be issues with dataset loading errors.
 
 
 ## Contact
