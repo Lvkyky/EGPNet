@@ -38,7 +38,7 @@ Then put them in `/EGPNET_LEVIR/bestNet`, `/EGPNET_SYSU/bestNet`,  `/EGPNET_CDD/
 ```python Train_CDD.py ```
 
 ## Attention
-The dataset folder must be named LEVIR,SYSU,CDD, or there will be issues with dataset loading errors.
+The dataset folder must be named LEVIR,SYSU,CDD, or there will be issues with dataset loading.
 
 
 ## Contact
