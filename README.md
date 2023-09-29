@@ -17,7 +17,7 @@ cd EPGNet
 ```
 
 ## Test
-You can download our pretrained models for LEVIR-CD, SYSU-CD, CDD  [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1CDkcUUpdd0w9tz4fe7no0A), [Baidu Netdisk, code: jstar](https://pan.baidu.com/s/1DTazE7I3lhELPRZr5oyniQ).
+You can download our pretrained models for LEVIR-CD, SYSU-CD, CDD  [Baidu Netdisk, code: 6666](https://pan.baidu.com/s/1EXME33U3bSIOEvkz84kCyg), [Baidu Netdisk, code: 6666](https://pan.baidu.com/s/1GUZViG6n6StY9HmuuPx8gg), [Baidu Netdisk, code: 6666](https://pan.baidu.com/s/18lme7QOl66TriADFcTp71g).
 
 Then put them in `/EGPNET_LEVIR/bestNet`, `/EGPNET_SYSU/bestNet`,  `/EGPNET_CDD/bestNet` separately.
 
