@@ -2,8 +2,7 @@
 ---------------------------------------------
 Here I provide PyTorch implementations for EGPNet
 
-![EPGNet](https://github.com/Lvkyky/EGPNet/assets/87217038/ffc116f3-f5d3-41a9-932a-64bcb045cac4)
-
+![EPGNet](https://github.com/Lvkyky/EGPNet/assets/87217038/e5d8aa0f-cc65-4826-bf96-702471343656)
 
 ## Requirements
 >RTX 3060 <br>
